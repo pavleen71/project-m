@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\inteface\bin\Debug\net6.0\inteface.exe
+C:\Users\Admin\source\repos\inteface\bin\Debug\net6.0\inteface.deps.json
+C:\Users\Admin\source\repos\inteface\bin\Debug\net6.0\inteface.runtimeconfig.json
+C:\Users\Admin\source\repos\inteface\bin\Debug\net6.0\inteface.dll
+C:\Users\Admin\source\repos\inteface\bin\Debug\net6.0\inteface.pdb
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.AssemblyInfo.cs
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.dll
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\refint\inteface.dll
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.pdb
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\inteface.genruntimeconfig.cache
+C:\Users\Admin\source\repos\inteface\obj\Debug\net6.0\ref\inteface.dll
